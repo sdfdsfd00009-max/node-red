@@ -13,6 +13,7 @@
     "node-red-contrib-s7-suite": "~0.0.7",
     "node-red-contrib-s7comm": "~1.1.6",
     "node-red-dashboard": "~3.6.6",
+    "node-red-dashboard-2": "latest",
     "openapi-red": "~2.8.0"
   }
 }
