@@ -14,7 +14,7 @@
     "node-red-contrib-s7comm": "~1.1.6",
     "node-red-dashboard": "~3.6.6",
     "@flowfuse/node-red-dashboard": "latest",
-    "openapi-red": "~2.8.0",
-    "node-red-node-sqlite": "^2.0.1"
+"openapi-red": "~2.8.0",
+"node-red-node-sqlite": "^2.0.1"
   }
 }
